@@ -1,5 +1,5 @@
 ## Hi there 👋
-SHEN Qi, currently an undergraduate student, with an interest in artificial intelligence safety.
+I am currently an undergraduate student, with an interest in artificial intelligence safety.
 
 <!--
 **shenqi011/shenqi011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
