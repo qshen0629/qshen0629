@@ -1,6 +1,5 @@
 ## Hi there 👋
-I'm currently an undergraduate student, and I'm interested in XAI.
-
+I am currently a PhD student in AI security at the Chinese Academy of Sciences, and I am seeking collaboration opportunities related to AI and AI security.
 <!--
 **shenqi011/shenqi011** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,4 +14,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![shenqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=qshen0629&show_icons=true&theme=transparent)
